@@ -23,6 +23,10 @@ An API Automation was performed by using Rest Assured, Selenium,Java, TestNG. I 
 4. Gradle
 
 ## Allure Report
-1. ``` Project run gradle clean test For generating Allure Report- ```
-2. ``` allure generate allure-results --clean -o allure-report ```
-3. ``` allure serve allure-results ```
+   1. ``` Project run gradle clean test For generating Allure Report- ```
+   2. ``` allure generate allure-results --clean -o allure-report ```
+   3. ``` allure serve allure-results ```
+
+## output: For a better understanding of the project, the video is given below.
+https://github.com/user-attachments/assets/cbd317e9-9eda-4608-a69c-0d393aaea31e
+
