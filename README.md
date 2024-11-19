@@ -17,12 +17,12 @@ An API Automation was performed by using Rest Assured, Selenium,Java, TestNG. I 
 2. Keep the new customers and agents necessary info to a json array file for chaining API's (if needed to transact amount between 2 users)
    
 ## Tools Used
-Selenium
-TestNG Framework
-Java
-Gradle
+1. Selenium
+2. TestNG Framework
+3. Java
+4. Gradle
 
 ## Allure Report
-Project run gradle clean test For generating Allure Report-
-allure generate allure-results --clean -o allure-report
-allure serve allure-results
+1. ``` Project run gradle clean test For generating Allure Report- ```
+2. ``` allure generate allure-results --clean -o allure-report ```
+3. ``` allure serve allure-results ```
